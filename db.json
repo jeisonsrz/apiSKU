@@ -3,7 +3,7 @@
     "data": [
         {
             "id": 1,
-            "sku": 001,
+            "sku": 100,
             "nombre": "medicamento 1",
             "codigo": null,
             "codigo_inventario": null,
