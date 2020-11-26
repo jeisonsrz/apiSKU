@@ -4,7 +4,7 @@
         {
             "id": 1,
             "sku": 100,
-            "nombre": "medicamento 1",
+            "nombre": "medicamento 1 API GITHUB",
             "codigo": null,
             "codigo_inventario": null,
             "descripcion": null,
