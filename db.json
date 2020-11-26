@@ -1,0 +1,27 @@
+  
+{
+    "data": [
+        {
+            "id": 1,
+            "sku": 001,
+            "nombre": "medicamento 1",
+            "codigo": null,
+            "codigo_inventario": null,
+            "descripcion": null,
+            "estado": "Activo",
+            "cantidad": "10.0",
+            "precio_venta": "10",
+            "unidad_medida": "ml",
+            "cantidad_unidad": "100.0",
+            "foto": null,
+            "cantidad_por_unidad": false,
+            "precio_por_unidad": "0",
+            "cantidad_total_unidades": "1000.0",
+            "tipo_uso": "Comercial/SitioWeb",
+            "fecha_vencimiento": null,
+            "stock_minimo": 1,
+            "precio_compra": "0",
+            "bodega": 1
+        }
+    ]
+}
